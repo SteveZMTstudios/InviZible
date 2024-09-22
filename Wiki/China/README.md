@@ -153,16 +153,21 @@ InviZible Pro 使用：
 * [meefik/busybox](https://github.com/meefik/busybox)
 
 本产品独立于 **Tor®**、**DNSCrypt**、  **Purple I2P** 软件 
-并且 The Above Projects 不对质量、适用性或其他任何方面提供任何保证。
+并且不对这些项目的质量、适用性或其他任何方面提供任何保证。
 
  ## 捐款 
  **Patreon**：https://www.patreon.com/inviziblepro 
  
  **BTC**：1GfJwiHG6xKCQCpHeW6fELzFfgsvcSxVUR 
+ 
  **LTC**：MUSAXkcAvnN1Ytauzeo9bwjVjarUdDHGgk 
+ 
  **BCH**：qzl4w4ahh7na2z23056qawwdyuclkgty5gc4q8 tw88 
+ 
  **USDT**：0xdA1Dd53FE6501140E3Dcd5134323dfccF20aD536 
+ 
  **XLM**：GBID6I3VYR4NIFLZWI3MEQH3M2H72COC3HQDI5WMYYQGAC3TE55TSKAX 
+ 
  **XMR**  82WFzofvGUdY52w9zCfrZWaHVqEDcJH7y1FujzvXdGPeU9UpuFNeCvtCKhtpC6pZmMYuCNgFjcw5mHAgEJQ4RTwV9XRhobX
 
 请注意，XMR 地址已更改。旧地址不再有效。
