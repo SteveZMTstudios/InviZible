@@ -12,6 +12,8 @@
 
 ### [F-Droid stable version](https://f-droid.org/packages/pan.alexander.tordnscrypt.stable/)
 
+[阅读简体中文版本](/Wiki/China/README.md)
+
 ## Android application for online privacy and security
 
 *Preserves privacy, prevents tracking, and provides access to restricted and hidden online content*
